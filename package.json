@@ -1,5 +1,5 @@
 {
-  "name": "nest-demo1",
+  "name": "t1",
   "version": "0.0.1",
   "description": "",
   "author": "",
@@ -22,8 +22,9 @@
   "dependencies": {
     "@nestjs/common": "^6.7.2",
     "@nestjs/core": "^6.7.2",
+    "@nestjs/mongoose": "^6.1.2",
     "@nestjs/platform-express": "^6.7.2",
-    "ejs": "^2.7.1",
+    "mongoose": "^5.7.11",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.0",
     "rxjs": "^6.5.3"
